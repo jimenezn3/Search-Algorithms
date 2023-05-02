@@ -4,7 +4,7 @@ Two programs implementing common sorting and searching algorithms.
 
 # SearchSort
 
-Implements Linear Search and Selection Sort algorithms/
+Implements Linear Search and Selection Sort algorithms
 
 # Bubble
 
